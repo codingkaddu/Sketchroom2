@@ -2,8 +2,8 @@
 
 SketchRoom is a fully interactive, real-time collaborative whiteboard. It allows multiple users to draw, write, chat, and insert images together on a shared canvas — making it ideal for brainstorming, remote teaching, and collaborative design.
 
-Built with modern web technologies and real-time communication, SketchRoom is lightweight, fast, and doesn’t require any login or database.
-
+Built with modern web technologies and real-time communication, SketchRoom is lightweight, fast, and designed for seamless multi-user interaction in real-time environments.
+Live Demo: https://sketchroom2.onrender.com/
 ## Features
 
 ### Core Functionality
