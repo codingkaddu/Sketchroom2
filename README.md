@@ -12,14 +12,13 @@ Live Demo: https://sketchroom2.onrender.com/
 - Real-Time Chat – Communicate with other users in the room while drawing.
 - Drawing Tools:
   - Pencil (Curve / Freehand)
-  - Line
   - Rectangle
   - Circle
 - Customizable Toolbar:
-  - Draggable and Collapsible
+  - Collapsible
   - Icon-based layout with labels
   - Color Picker and Line Width Control
-- Text Insertion – Add styled text anywhere on the canvas.
+- Text Insertion – Add text anywhere on the canvas.
 - Image Upload – Insert and move images directly on the board.
 - Background Picker – Change canvas background color.
 - Undo / Redo – Step backward or forward through actions.
