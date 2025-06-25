@@ -44,8 +44,23 @@ Backend:
 
 ## Getting Started
 
-1. Clone the Repository
 ```bash
+# 1. Clone the Repository
 git clone https://github.com/your-username/sketchroom.git
 cd sketchroom
 
+# 2. Install Dependencies
+npm install
+
+# 3. Run the App Locally
+# Open two terminals
+
+# Terminal 1 (Backend)
+npm run dev
+
+# Terminal 2 (Frontend)
+npm run dev:client
+
+# 4. Open in Browser
+# Visit:
+http://localhost:3000
