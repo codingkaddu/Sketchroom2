@@ -52,15 +52,13 @@ cd sketchroom
 # 2. Install Dependencies
 npm install
 
-# 3. Run the App Locally
-# Open two terminals
-
-# Terminal 1 (Backend)
+# 3. Run the development server:
 npm run dev
 
 # Terminal 2 (Frontend)
 npm run dev:client
 
-# 4. Open in Browser
-# Visit:
-http://localhost:3000
+# 4. Build the project:
+npm run build
+# 5. Start the production server:
+npm start
